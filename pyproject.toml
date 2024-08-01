@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 dependencies = [
   "openai>=1.25.0,<2.0.0",
   "docstring_parser>=0.15.0,<1.0.0",
-  "tenacity>=8.2.0,<9.0.0",
+  "tenacity>=8.2.0,<10.0.0",
 ]
 name = "agent_dingo"
 version = "1.0.0"
